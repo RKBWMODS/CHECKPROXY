@@ -21,7 +21,7 @@ pip install Cripto
 pip install pycryptodome
 git clone https://github.com/RKBWMODS/CHECKPROXY
 cd CHECKPROXY
-python3 checkproxy.py
+python3 proxycek.py
 
 ❌ NOTE ❌
 GUNAKAN TOOLS INI DENGAN BIJAK!
